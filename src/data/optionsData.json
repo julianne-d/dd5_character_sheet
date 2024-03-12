@@ -1,0 +1,39 @@
+{
+  "races": [
+    "Humain",
+    "Elfe",
+    "Demi-Elfe",
+    "Githyanki",
+    "Drakéide",
+    "Demi-Orque",
+    "Nain",
+    "Gnome",
+    "Halfelin"
+  ],
+
+  "classes": [
+    "Barbare",
+    "Barde",
+    "Clerc",
+    "Druide",
+    "Guerrier",
+    "Moine",
+    "Paladin",
+    "Rôdeur",
+    "Roublard",
+    "Ensorceleur",
+    "Occultiste",
+    "Magicien"
+  ],
+
+  "backgrounds": [
+    "Marin",
+    "Étranger",
+    "Charlatan",
+    "Criminel",
+    "Acolyte",
+    "Héros du peuple",
+    "Sage",
+    "Artisan"
+  ]
+}
