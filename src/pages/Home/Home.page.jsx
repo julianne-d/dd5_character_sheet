@@ -1,11 +1,11 @@
 import React from 'react';
-import IdCard from '../../components/IdCard/IdCard.component'
+import NewCharacterButton from '../../components/NewCharacterButton/NewCharacterButton.component'
 
 export default function HomePage() {
     return (
       <>
         <form action="" method="get" className="form-example">
-            <IdCard />
+            <NewCharacterButton />
         </form>
       </>
     )
